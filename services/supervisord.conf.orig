@@ -40,7 +40,7 @@ autostart=false
 [program:pirowflo_S4_Monitor_AntPlus_only]
 user=#USER#
 command=#PYTHON3# #REPO_DIR#/src/waterrowerthreads.py -i s4 -a
-autostart=false
+autostart=true
 
 [program:pirowflo_SR_SmartRow_Bluetooth_AntPlus]
 user=#USER#

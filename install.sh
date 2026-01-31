@@ -40,7 +40,7 @@ sudo apt-get install -y \
     python3-gi-cairo \
     gir1.2-gtk-3.0 \
     python3-pip \
-    libatlas-base-dev \
+    libopenblas-dev \
     libdbus-1-dev \
     libglib2.0-dev \
     libgirepository1.0-dev \

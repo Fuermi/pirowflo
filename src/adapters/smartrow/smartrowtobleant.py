@@ -38,7 +38,7 @@ class DataLogger():
         self._reset_state()
     
     def _reset_state(self):
-            self.WRValues_rst = {
+        self.WRValues_rst = {
             'stroke_rate': 0,
             'total_strokes': 0,
             'total_distance_m': 0,

@@ -191,7 +191,7 @@ echo " present                                       "
 echo "-----------------------------------------------"
 echo " "
 
-sudo sed -i 's/hci0/hci2/g' /usr/bin/btuart
+# sudo sed -i 's/hci0/hci2/g' /usr/bin/btuart
 
 echo " "
 echo "----------------------------------------------"
